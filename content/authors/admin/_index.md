@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Osias Stave Icnel Dany
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Computer and Mathematics student. 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: People's Friendship University of Russia
+    url: https://eng.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a mathematics lover, a passionate of programming and IT technologies. My fields of interest also include art and sport.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Data science
+  - Mathematics
+  - Art 
+  - Sport
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor degree in Mathematics and Computer science (Actually)
+      institution: People's Friendship University of Russia
+      year: 2021
+    - course: Bachelor degree of Statistics (2nd grade)
+      institution: Planning and Applied Economy Techniques Center of Haiti
+      year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,14 +65,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'osiasstave15@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Osias Stave Icnel Dany is a Mathematics and Computer science student at People's Friendship University of Russia. He's haitian. He came to Russia in 2022 to complete a bachelor degree. Before that, he started a bachelor degree of Statistics at Planning and Applied Economy Center of Haiti. Above all, he's a mathematics lover, a passionate of programming and IT technologies. He's also interested in sport, drawing and writing. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
